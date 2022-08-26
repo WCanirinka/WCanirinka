@@ -20,7 +20,7 @@ My name is Wilfried Canirinka, I am a full-stack developer, GitKraken Ambassador
 ##
  
 <div>
-  <a href="https://www.linkedin.com/in/WCanirinka"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wilfried-canirinka"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:canirinkawilfried@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
