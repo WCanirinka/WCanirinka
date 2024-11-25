@@ -8,12 +8,11 @@ My name is Wilfried Canirinka, I am a full-stack developer, GitKraken Ambassador
 - 🤔 I’m looking for help with some of my few that needs to be improved
 - 💬 Ask me about Web, Gatsby, Developer Outreach, and Tooling
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wilfried-canirinka/), [Twitter](https://twitter.com/WCanirinka), [Email](canirinkawilfried@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing Basktball and piano
 
 <div align="center">
   <a href="https://github.com/WCanirinka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gatarelib&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WCanirinka&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCanirinka&layout=compact&langs_count=7&theme=dark" />
 </div>
 
