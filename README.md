@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-My name is Wilfried Canirinka, I am a full-stack developer, GitKraken Ambassador and Community Lead
+My name is Wilfried Canirinka, I am a DevOps Engineer, full-stack developer, and Community Lead
 
 - 🔭 I’m currently part of the [GDG Bujumbura](https://gdg-bujumbura.web.app/) (Lead Organizer), [Prog257](https://www.prog257.com/)
-- 🌱 I’man alumni at [Microverse](https://www.microverse.org/) program (an online software development program) as a Remote Full-Stack Developer
-- 👯 I’m looking to collaborate on projects that are built with Reactjs, Ruby on Rails, JavaScript.
-- 🤔 I’m looking for help with some of my few that needs to be improved
-- 💬 Ask me about Web, Gatsby, Developer Outreach, and Tooling
+- 🌱 I’m an alumnus at [Microverse](https://www.microverse.org/) program (an online software development program) as a Remote Full-Stack Developer
+- 👯 I’m looking to collaborate on projects built with Reactjs, Ruby on Rails, and JavaScript with 5+ years of experience. I am also a DevOps Engineer autodidact with 2.5 years of experience
+- 🤔 I’m looking for help with some of the few skills that need to be improved like project management, and scrum.
+- 💬 Ask me about Web, Portainer, Developer Outreach, DevOps, and Tooling
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wilfried-canirinka/), [Twitter](https://twitter.com/WCanirinka), [Email](canirinkawilfried@gmail.com)
-- ⚡ Fun fact: I love playing Basktball and piano
+- ⚡ Fun fact: I love playing Basketball and playing musical instruments
 
 <div align="center">
   <a href="https://github.com/WCanirinka">
