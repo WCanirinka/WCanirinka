@@ -1,14 +1,24 @@
+###👋 Hi there! 
+
+I'm Wilfried Canirinka, a passionate DevOps & Security with a focus on building efficient, scalable, and user-friendly software solutions.
+
+##🌟 About Me
+🔧 Expertise: DevOps, Full-Stack Development (ReactJS, Ruby on Rails), CI/CD, and Cloud Security.
+🎓 Graduate of Microverse's Full-Stack Web Development Program, where I mastered remote collaboration and modern technologies.
+🌍 Advocate for technology education, having mentored aspiring developers and trained 250+ adolescent girls in digital skills through UNICEF’s Skills4Girls initiative.
+💻 What I Work On
+Building robust software architectures that streamline workflows and enhance user experiences.
+Automating deployment pipelines and improving system reliability in production environments.
+Exploring the latest technologies to stay ahead in a rapidly evolving tech landscape.
+##🤝 Let’s Collaborate
+I'm always open to contributing to innovative projects, collaborating with like-minded developers, and sharing knowledge with the community.
+⚡ Fun fact: I love playing Basketball and playing musical instruments
+
+📫 How to Reach Me
+[LinkedIn](https://www.linkedin.com/in/wilfried-canirinka/)
+[Email](canirinkawilfried@gmail.com)
+Let’s code something amazing together! 🚀
 ### Hi there 👋
-
-My name is Wilfried Canirinka, I am a DevOps Engineer, full-stack developer, and Community Lead
-
-- 🔭 I’m currently part of the [GDG Bujumbura](https://gdg-bujumbura.web.app/) (Lead Organizer), [Prog257](https://www.prog257.com/)
-- 🌱 I’m an alumnus at [Microverse](https://www.microverse.org/) program (an online software development program) as a Remote Full-Stack Developer
-- 👯 I’m looking to collaborate on projects built with Reactjs, Ruby on Rails, and JavaScript with 5+ years of experience. I am also a DevOps Engineer autodidact with 2.5 years of experience
-- 🤔 I’m looking for help with some of the few skills that need to be improved like project management, and scrum.
-- 💬 Ask me about Web, Portainer, Developer Outreach, DevOps, and Tooling
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wilfried-canirinka/), [Twitter](https://twitter.com/WCanirinka), [Email](canirinkawilfried@gmail.com)
-- ⚡ Fun fact: I love playing Basketball and playing musical instruments
 
 <div align="center">
   <a href="https://github.com/WCanirinka">
@@ -24,3 +34,4 @@ My name is Wilfried Canirinka, I am a DevOps Engineer, full-stack developer, and
 </div>
 
 ![Snake animation](https://github.com/WCanirinka/WCanirinka/blob/output/github-contribution-grid-snake.svg)
+
